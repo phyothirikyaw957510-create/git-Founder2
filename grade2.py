@@ -8,3 +8,6 @@ print(f"Student Name: {name}")
 print(f"Average Mark: {average}")
 
 print("Next Sentence")
+
+
+print("Zero")
