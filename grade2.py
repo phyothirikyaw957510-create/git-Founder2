@@ -6,3 +6,5 @@ average = (mark1 + mark2) / 5
 
 print(f"Student Name: {name}")
 print(f"Average Mark: {average}")
+
+print("Next Sentence")
